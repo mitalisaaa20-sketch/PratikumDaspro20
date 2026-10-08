@@ -63,6 +63,5 @@ public class Studikasus220 {
         System.out.println("Nama mahasiswa  : " + nama);
         System.out.println("Status : " + hasil);
 
-        input.close();
     }
 }
